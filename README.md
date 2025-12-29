@@ -1,5 +1,5 @@
 # 💫 About Me:
-> I am currently working on basic project of python.<br>> I am currently learning basic of python.<br>> i have a knowledge of HTML and CSS.<br>>i have a  knowledge of MYSQL. 
+> I am currently working on basic project of python.<br>> I am currently learning basic of python.<br>> i have a knowledge of HTML.<br>>i have a  knowledge of MYSQL. 
 
 
 ## 🌐 Socials:
