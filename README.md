@@ -29,3 +29,7 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## watch snake eating my github contributions 
+
+![snake gif](https://github.com/baldevs09/baldevs09/blob/output/github-contribution-grid-snake.svg)
