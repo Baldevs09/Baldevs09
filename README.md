@@ -169,7 +169,7 @@ Embedded Systems
 
 💻 **GitHub:** [@Baldevs09](https://github.com/Baldevs09)
 
-💼 **LinkedIn:** Add your LinkedIn profile here
+💼 **LinkedIn:** https://www.linkedin.com/feed/
 
 ---
 
