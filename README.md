@@ -104,9 +104,11 @@ Learning and implementing:
 
 ---
 
-## 🐍 My Contribution Snake
+<!-- Snake Game Repo View -->
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Baldevs09/Baldevs09/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
