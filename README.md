@@ -32,6 +32,7 @@ I enjoy learning how hardware and software work together and I'm currently stren
 * 🎯 Goal: **Become an Embedded Systems Engineer**
 
 ---
+![Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🧰 Tech Stack
 
