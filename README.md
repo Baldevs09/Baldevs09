@@ -15,11 +15,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Baldev%20Singh&fontSize=65&fontColor=fff&fontAlignY=40&desc=Building%20Beautiful%20Things%20with%20Code%20%E2%9C%A8&descSize=18&descAlignY=60&animation=twinkling" width="100%"/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=FF6BB5&center=true&vCenter=true&width=700&lines=B.Tech+Student+%7C+ Embedded Systems+Enthusiast+%F0%9F%A4%96;Embedded+Engineer+%7C+Creative+Coder+%F0%9F%8E%A8;Bulild+Projects+%7C+Problem+Solver+%F0%9F%92%AA;Turning+Coffee+%E2%98%95+%26+Ideas+into+Projects+%E2%9C%A8;Consistency+is+Beauty.+%F0%9F%92%96)]https://github.com/Baldevs09
-
-<br/>
 
 
 </div>
