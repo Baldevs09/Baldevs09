@@ -21,11 +21,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Baldevsingh-2025&color=FF6BB5&style=flat-square&label=Profile+Views)]https://github.com/Baldevs09
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Baldevsingh-2025?label=Followers&style=flat-square&color=FF6BB5&labelColor=1f1f2e)](https://github.com/Baldevs09?tab=followers)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/Baldevsingh-2025?label=Total%20Stars&style=flat-square&color=FF6BB5&labelColor=1f1f2e)]https://github.com/Baldevs09
 
 </div>
 # 👋 Hi, I'm Baldev Singh
