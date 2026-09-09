@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="120" height="90" alt="Terminal Coding"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="120" height="90" alt="Keep Coding"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" height="90" alt="Clean Code"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" height="90" alt="Code Typing"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/source.gif" width="120" height="90" alt="Coding Vibes"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" height="90" alt="Developer at Work"/>
+</p>
 # 👋 Hi, I'm Baldev Singh
 
 ### 🎓 2nd Year B.Tech ECE Student | 💻 Embedded Systems Enthusiast | 🚀 Future Embedded Engineer
