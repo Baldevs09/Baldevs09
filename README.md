@@ -1,7 +1,7 @@
 <p align="center":>
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="120" height="90" alt="Terminal Coding"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="120" height="90" alt="Keep Coding"/>
+  <imgsrc="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="120" height="90" alt="Keep Coding"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" height="90" alt="Clean Code"/>
   &nbsp;&nbsp;&nbsp;
